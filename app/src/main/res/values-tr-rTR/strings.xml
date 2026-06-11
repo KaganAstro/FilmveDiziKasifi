@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Film Ve Dizi Kaşifi</string>
+    <string name="now_playing">Vizyondakiler</string>
+    <string name="popular_movies">Popüler Filmler</string>
+    <string name="top_rated">En Çok Oy Alanlar</string>
+    <string name="upcoming">Yakında Gelecekler</string>
+    <string name="profile">Profil</string>
+    <string name="search">Ara</string>
+    <string name="unknown_movie">Bilinmeyen Film</string>
+    <string name="error">Hata</string>
+
+    <string name="edit_profile">Profili Düzenle</string>
+    <string name="save_profile">Profili Kaydet</string>
+    <string name="name_surname">İsim Soyisim</string>
+    <string name="about_me">Hakkımda</string>
+    <string name="fav_movie">Favori Film / Seri</string>
+    <string name="fav_genre">Favori Film Türü</string>
+    <string name="app_theme">Uygulama Teması</string>
+    <string name="dark_theme">Karanlık Tema</string>
+    <string name="bio_default">Sinema ve dizi tutkunu.</string>
+    <string name="genre_default">Bilim Kurgu / Fantastik</string>
+
+    <string name="rating">Puan</string>
+    <string name="release">Çıkış</string>
+    <string name="genres">Türler</string>
+    <string name="overview">Özet</string>
+
+    <string name="no_internet">Lütfen cihazınızı internete bağlayınız.</string>
+</resources>

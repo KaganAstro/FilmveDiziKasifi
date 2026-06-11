@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Movie &amp; TV Explorer</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="unknown_movie">Unknown Movie</string>
+    <string name="error">Error</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="name_surname">Full Name</string>
+    <string name="about_me">About Me</string>
+    <string name="fav_movie">Favorite Movie / Series</string>
+    <string name="fav_genre">Favorite Genre</string>
+    <string name="app_theme">App Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="bio_default">Cinema and TV enthusiast.</string>
+    <string name="genre_default">Sci-Fi / Fantasy</string>
+
+    <string name="rating">Rating</string>
+    <string name="release">Release</string>
+    <string name="genres">Genres</string>
+    <string name="overview">Overview</string>
+
+    <string name="no_internet">Please connect your device to the internet.</string>
+</resources>

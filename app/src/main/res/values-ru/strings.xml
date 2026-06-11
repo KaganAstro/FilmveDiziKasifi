@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Обзор Фильмов и Сериалов</string>
+    <string name="now_playing">Сейчас в кино</string>
+    <string name="popular_movies">Популярные фильмы</string>
+    <string name="top_rated">Лучшие фильмы</string>
+    <string name="upcoming">Ожидаемые новинки</string>
+    <string name="profile">Профиль</string>
+    <string name="search">Поиск</string>
+    <string name="unknown_movie">Неизвестный фильм</string>
+    <string name="error">Ошибка</string>
+
+    <string name="edit_profile">Редактировать профиль</string>
+    <string name="save_profile">Сохранить профиль</string>
+    <string name="name_surname">Имя и Фамилия</string>
+    <string name="about_me">О себе</string>
+    <string name="fav_movie">Любимый фильм / сериал</string>
+    <string name="fav_genre">Любимый жанр</string>
+    <string name="app_theme">Тема приложения</string>
+    <string name="dark_theme">Темная тема</string>
+    <string name="bio_default">Любитель кино и сериалов.</string>
+    <string name="genre_default">Фантастика / Фэнтези</string>
+
+    <string name="rating">Рейтинг</string>
+    <string name="release">Дата выхода</string>
+    <string name="genres">Жанры</string>
+    <string name="overview">Описание</string>
+
+    <string name="no_internet">Пожалуйста, подключите ваше устройство к интернету.</string>
+</resources>
