@@ -30,4 +30,7 @@ Nasıl Deneyebilirsiniz?
 
 Vakit ayırıp incelediğiniz için şimdiden teşekkürler!
 
+Demo Videosu
+[Uygulama Demo Videosunu İzlemek İçin Tıklayın](https://github.com/KaganAstro/FilmveDiziKasifi/blob/master/görsel_2026-06-12_020317611.png)
+
 **Geliştirici:** Kağan Kulaoğlu
