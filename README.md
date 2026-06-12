@@ -30,7 +30,10 @@ Nasıl Deneyebilirsiniz?
 
 Vakit ayırıp incelediğiniz için şimdiden teşekkürler!
 
-Demo Videosu
-[Uygulama Demo Videosunu İzlemek İçin Tıklayın](https://github.com/KaganAstro/FilmveDiziKasifi/blob/master/Demo.mp4)
+Uygulama Demo Videosu
+
+<div align="center">
+  <video src="https://github.com/KaganAstro/FilmveDiziKasifi/blob/master/Demo.mp4?raw=true" width="400" controls="controls"></video>
+</div>
 
 **Geliştirici:** Kağan Kulaoğlu
