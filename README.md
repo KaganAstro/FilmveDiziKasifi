@@ -32,8 +32,6 @@ Vakit ayırıp incelediğiniz için şimdiden teşekkürler!
 
 Uygulama Demo Videosu
 
-<div align="center">
-  <video src="https://github.com/KaganAstro/FilmveDiziKasifi/blob/master/Demo.mp4" width="400" controls="controls"></video>
-</div>
+[https://github.com/KaganAstro/FilmveDiziKasifi/blob/master/demo.mp4]
 
 **Geliştirici:** Kağan Kulaoğlu
